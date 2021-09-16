@@ -1,3 +1,2 @@
 ### Hi there 👋
-### Hello
-### Learning Go React React Native Flutter
+### I am learning go and react and flutter
