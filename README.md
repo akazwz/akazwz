@@ -1,2 +1,2 @@
 ### Hi there 👋
-### Go React
+### current leanning and using go and react
