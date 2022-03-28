@@ -1,4 +1,4 @@
-### Hi there 👋 , I am akazwz.
+### Hi there 👋 , I am akazwz
 
 ### ❤️coding. Leaning go and react
 
