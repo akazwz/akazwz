@@ -1,3 +1,3 @@
 ### Hi there 👋 , I am akazwz
 
-### Code for fun
+### 写着玩
