@@ -1,3 +1,1 @@
-### Hi there 👋 , I am akazwz
-
-### 写着玩
+full stack developer.   building something and making open source
