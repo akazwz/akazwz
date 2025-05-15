@@ -1,1 +1,1 @@
-full stack developer.   building something and making open source
+I am a full stack developer, building something and making it open-source.
